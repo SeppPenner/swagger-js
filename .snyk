@@ -8,3 +8,7 @@ patch:
         patched: '2019-07-03T21:26:21.401Z'
     - isomorphic-form-data > form-data > async > lodash:
         patched: '2019-07-03T21:26:21.401Z'
+    - snyk > snyk-mvn-plugin > lodash:
+        patched: '2019-07-10T07:44:09.287Z'
+    - snyk > snyk-php-plugin > @snyk/composer-lockfile-parser > lodash:
+        patched: '2019-07-10T07:44:09.287Z'
